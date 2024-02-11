@@ -12,7 +12,6 @@ install_requires = [
     "joblib",
     "pymanopt",
     "autograd",
-    "py3nj",
 ]
 
 
